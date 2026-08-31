@@ -34,8 +34,8 @@
             <mxPoint x="560" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OBRSMwYhg35n4k4ZtE8_-12" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="615" y="298" width="50" height="30" as="geometry" />
+        <mxCell id="OBRSMwYhg35n4k4ZtE8_-12" value="迁移：粗策略权重+奖励函数+课程设计" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="525" y="298" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
