@@ -79,7 +79,7 @@
         <mxCell id="T73_UF0D4mAB9i6efp5O-74" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;域随机化（DR/ADR）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="440" width="240" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="T73_UF0D4mAB9i6efp5O-75" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;特权学习-&amp;gt;师生蒸馏&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="T73_UF0D4mAB9i6efp5O-75" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;特权学习&lt;/span&gt;&lt;span style=&quot;font-family: Verdana; text-align: start; white-space: nowrap;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;→&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 25px;&quot;&gt;师生蒸馏&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="530" width="240" height="80" as="geometry" />
         </mxCell>
         <mxCell id="T73_UF0D4mAB9i6efp5O-76" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;域适应（特征对齐）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
