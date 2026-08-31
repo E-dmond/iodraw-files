@@ -14,7 +14,10 @@
           <mxGeometry x="120" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OBRSMwYhg35n4k4ZtE8_-6" value="阶段一·Unity快速仿真" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="1">
-          <mxGeometry x="15" y="145" width="260" height="40" as="geometry" />
+          <mxGeometry x="120" y="150" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OBRSMwYhg35n4k4ZtE8_-7" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="38" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
