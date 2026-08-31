@@ -49,15 +49,6 @@
         <mxCell id="OBRSMwYhg35n4k4ZtE8_-16" value="精确刚体/接触动力学·物理更贴近真机" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="120" y="374" width="360" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OBRSMwYhg35n4k4ZtE8_-17" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;大规模并行环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="373" y="420" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OBRSMwYhg35n4k4ZtE8_-18" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;大规模并行环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="607" y="420" width="180" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="OBRSMwYhg35n4k4ZtE8_-19" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;大规模并行环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
-          <mxGeometry x="840" y="420" width="180" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="OBRSMwYhg35n4k4ZtE8_-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.48;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OBRSMwYhg35n4k4ZtE8_-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="607" y="590" as="sourcePoint" />
@@ -87,6 +78,9 @@
         </mxCell>
         <mxCell id="OBRSMwYhg35n4k4ZtE8_-28" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;大规模并行环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="640" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OBRSMwYhg35n4k4ZtE8_-29" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;继续RL精训（PPO）&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="430" width="230" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
