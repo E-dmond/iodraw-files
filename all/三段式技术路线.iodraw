@@ -100,7 +100,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OBRSMwYhg35n4k4ZtE8_-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Real2Sim：真机失败轨迹重建后回注MuJoCo再训练&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="415" y="768" width="370" height="30" as="geometry" />
+          <mxGeometry x="510" y="770" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OBRSMwYhg35n4k4ZtE8_-34" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="698" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
