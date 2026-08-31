@@ -73,7 +73,7 @@
         <mxCell id="OBRSMwYhg35n4k4ZtE8_-26" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;低力矩安全试运行&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
           <mxGeometry x="357" y="640" width="230" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="OBRSMwYhg35n4k4ZtE8_-27" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;大规模并行环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
+        <mxCell id="OBRSMwYhg35n4k4ZtE8_-27" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;失败案例回注仿真&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
           <mxGeometry x="593" y="640" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OBRSMwYhg35n4k4ZtE8_-28" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;大规模并行环境&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;spacing=3;spacingTop=0;spacingLeft=0;" vertex="1" parent="1">
