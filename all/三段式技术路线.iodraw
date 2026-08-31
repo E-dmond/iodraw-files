@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="OBRSMwYhg35n4k4ZtE8_-1" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="465" y="48" width="50" height="30" as="geometry" />
+        <mxCell id="OBRSMwYhg35n4k4ZtE8_-1" value="&lt;span style=&quot;color: rgb(224, 224, 224); font-family: system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, sans-serif; text-align: start;&quot;&gt;Unity → MuJoCo → Real 三段式 Sim-to-Real 流水线&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="335" y="48" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
